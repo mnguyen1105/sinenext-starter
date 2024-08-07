@@ -32,11 +32,11 @@ Environment Variables:
 
     DATABASE_URL="mysql://<username>:<password>@<hostname>:<port>/<database_name>"
     OPENAI_API_KEY="your_openai_api_key"
-    SINGLE_STORE_DB_HOST="your_single_store_db_host"
-    SINGLE_STORE_DB_PORT="your_single_store_db_port"
-    SINGLE_STORE_DB_USER="your_single_store_db_user"
-    SINGLE_STORE_DB_PASSWORD="your_single_store_db_password"
-    SINGLE_STORE_DB_NAME="your_single_store_db_name"
+    DB_HOST="your_single_store_db_host"
+    DB_PORT="your_single_store_db_port"
+    DB_USER="your_single_store_db_user"
+    DB_PASSWORD="your_single_store_db_password"
+    DB_NAME="your_single_store_db_name"
 
 Install Dependencies:
 ```Bash
